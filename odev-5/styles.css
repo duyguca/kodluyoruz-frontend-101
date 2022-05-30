@@ -1,0 +1,38 @@
+.logo {
+    text-align: center;
+
+}
+.logo img {
+    width:400px;
+
+}
+.search-form {
+    height: 100px;
+    background-color: rgb(229, 220, 220);
+    text-align: center;
+    padding: 12px;
+    
+}
+.search-form h3 {
+    margin: 0px;
+    margin-bottom: 12px;
+}
+.search-form input {
+    width:400px;
+}
+.container {
+    background-color: aquamarine;
+    width: 33%;
+    text-align: center;
+}
+.container:nth-child(3) {
+    background-color: rgb(98, 179, 170);
+
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    text-align: center;
+}
